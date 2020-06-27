@@ -1,0 +1,17 @@
+body {
+	background: #333; /* Цвет фона */
+	color: #fc0; /* Цвет текста */
+}
+.author {
+	color: #b5b5b5;
+	opacity: 0.5;
+}
+.ul {
+	border: solid 1px;
+	width: 150px;
+	float: left;
+	margin: 7px 7px 7px 0px;
+}
+.href{
+	color: #fb0
+}
